@@ -6,7 +6,7 @@ email: 1391691050@qq.com
 description: "这里是lw的个人博客，与你一起发现更大的世界。"
 keyword: "LW, Blog, 毛利老弟, 学习, 回忆录, 日常"
 url: "https://leiwei.xyz" # your host, for absolute URL
-baseurl: "/Blog-Hux/" # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/Blog-Hux" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
@@ -74,7 +74,7 @@ ba_track_id: bac718197f69357b608881b56df33dc8
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程<br>Be simple and be cool"
+sidebar-about-description: "Yesterday I saw a lion kiss a deer<br>Be simple and be cool"
 sidebar-avatar: /img/avatar-毛利小五郎.jpeg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
